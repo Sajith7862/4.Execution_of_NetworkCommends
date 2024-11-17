@@ -26,7 +26,35 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-## Output
+## Output :
+
+### PING :
+
+![image](https://github.com/user-attachments/assets/3ef73c68-e916-4e7d-93c0-db72bc761a93)
+
+### TRACERT :
+
+![image](https://github.com/user-attachments/assets/24bf05b4-85c3-4bd9-a6e1-ee3973b7b23a)
+
+### IPCONFIG :
+
+![image](https://github.com/user-attachments/assets/b8033d7a-b416-4e03-b869-8817ad2a7de4)
+
+### NETSTAT :
+
+![image](https://github.com/user-attachments/assets/3dbfc838-cb28-4814-a367-634aca120f86)
+
+### FTP :
+
+![image](https://github.com/user-attachments/assets/1e722534-bda2-4b2d-85e6-dbcdd4d391db)
+
+### CURL :
+
+![image](https://github.com/user-attachments/assets/894ee513-9412-4d92-aab9-32a9aad20889)
+
+### NSLOOKUP :
+
+![image](https://github.com/user-attachments/assets/40454df2-0478-473c-a5fe-76402d9ee792)
 
 ## Result
 Thus Execution of Network commands Performed 
